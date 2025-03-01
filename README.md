@@ -3,7 +3,7 @@
 ## About Me 👋
 - 💁 I’m `PeterStark000`, but my real name is `João` and I am currently studying Information Systems in college.
 - 👀 I’m interested in Javascript, but I have contributed a few times and am interested in learning more in-depth TypeScript, Kotlin, and Java;
-- 🫡 Discord Partner since 09/23/2020 and part of the [Loritta](https://github.com/LorittaBot) team since 12/22/2020;
+- 🫡 Discord Partner since 09/23/2020 and I was part of the [Loritta](https://github.com/LorittaBot) team since 12/22/2020 to 01/02/2025, where I made some contributions in Java/Kotlin;
 - 🦊 Currently working on [Kuraminha](https://github.com/KuraminhaBot), a multifunctional Discord bot with various commands for images, music (Spotify, Last.FM), moderation, utility, and more;
 - 📫 How to reach me:
   - Twitter ([@PeterStark000](https://twitter.com/PeterStark000));
